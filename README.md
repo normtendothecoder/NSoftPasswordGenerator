@@ -5,4 +5,4 @@ https://github.com/normtendothecoder/PassGen/wiki/Installation
 # Disclaimer: 
 You need node.js and Command Prompt avalible.
 # Copyright Notice
-Federal Law provides severe civil and criminal penalties forthe unauthorized reproduction, distribution, or exhibition of copyrighted software. The Federal Bureau of Investigation investigates allegations of criminal copyright infringement.
+Federal Law provides severe civil and criminal penalties for the unauthorized reproduction, distribution, or exhibition of copyrighted software. The Federal Bureau of Investigation investigates allegations of criminal copyright infringement.
