@@ -1,0 +1,24 @@
+{
+  "name": "nttc_passgen",
+  "version": "0.1.0",
+  "description": "A simple and secure password generator for free.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/normtendothecoder/PassGen"
+  },
+  "keywords": [
+    "password",
+    "pass",
+    "node"
+  ],
+  "author": "Norman Rugg III",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/normtendothecoder/NSoftPasswordGenerator/issues"
+  },
+  "homepage": "https://github.com/normtendothecoder/NSoftPasswordGenerator#readme"
+}
